@@ -1,0 +1,2 @@
+class Teller < ApplicationRecord
+end
